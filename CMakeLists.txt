@@ -9,6 +9,5 @@ add_subdirectory(modules/googletest)
 add_subdirectory(doc)
 add_subdirectory(lib)
 
-
 enable_testing()
 add_subdirectory(test)
